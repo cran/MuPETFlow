@@ -1,0 +1,16 @@
+a582119036e7a56110df06c837bad0c0 *DESCRIPTION
+14492a25254bb68bffbc0c21ed2bb948 *NAMESPACE
+a6e5d1423da53b7713cda1bf125200e5 *R/runMuPETFlow.R
+d0f065bb315100ec84096bef9af0063e *R/zzz.R
+fcdb34aca356600621b21f8c33a220f5 *README.md
+b8223fb5f34fd2bfb2105ef86edd3687 *build/vignette.rds
+5e270ae6034b339c2a13d20a5f7d2dec *inst/doc/MuPETFlow.R
+0410408d69ca80171c297e79b6c2ebab *inst/doc/MuPETFlow.Rmd
+1781017ee8f2ad9a40307baf315aa585 *inst/doc/MuPETFlow.html
+cc114d8907a8ed24412a79492a68a822 *inst/shiny/app/app.R
+478f5b76703513780fdbbd56e5a474af *inst/shiny/app/help/help.md
+dfb75e0ad7650aa060c9b97a7e303575 *man/figures/MuPET-Flow_Screenshot.png
+dd5fd826165ff0a83a51a67b21685131 *man/figures/MuPET-Flow_Workflow.png
+04b2906d13d355252224e4bd6ab130f7 *man/runMuPETFlow.Rd
+c2e348a0e1e2d14fcc99cafad9b1356e *tests/testthat/test-runMuPETFlow.R
+0410408d69ca80171c297e79b6c2ebab *vignettes/MuPETFlow.Rmd
